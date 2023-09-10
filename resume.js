@@ -69,4 +69,4 @@ for(var i=0;i<userdata.education.length;i++){
 for(var [key,values] of Object.entries(userdata)){
     console.log(`${key}:${values}`);
 }     
-git
+
